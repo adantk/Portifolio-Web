@@ -1,0 +1,29 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(./Images/fundo.jpg.crdownload) center;
+    font-family: 'Lato';
+    line-height: 1.5;
+    color: white;
+     text-align: center justify;
+  }
+  
+  main {
+    background: #8bc8f154;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+  }
+  
+    .title-name, .headline {
+    margin: 0;
+    text-align: center;
+  }
+    .foto-casal {
+    background: #8bc8f154;
+    padding: 5px 5px;
+    margin-top: 20px;
+    margin: 0%;
+    border-radius: 65px; 
+    text-align: center;
